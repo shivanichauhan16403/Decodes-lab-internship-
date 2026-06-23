@@ -1,2 +1,2 @@
-# Decodes-lab-internship-
+# Decode -lab-internship-
 My first GitHub repository 
